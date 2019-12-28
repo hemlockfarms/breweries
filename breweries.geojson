@@ -12,6 +12,19 @@
         "name": "Anderson Valley Brewing Co"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.944498,
+          42.626701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Brewery Ommegang"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
