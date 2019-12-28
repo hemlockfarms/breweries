@@ -1,0 +1,18 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -123.355968,
+          39.001342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Anderson Valley Brewing Co"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
