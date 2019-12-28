@@ -25,6 +25,162 @@
         "name": "Brewery Ommegang"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.31847719999999,
+          40.8617747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Magnify Brewing Company"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9992658,
+          40.6738273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Other Half Brewing Company"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.296307,
+          40.87262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Cricket Hill Brewing Co."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.283862,
+          40.263863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Imprint Beer Company"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.07141969999999,
+          39.916909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Devil's Creek Brewery"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0381795,
+          40.4117822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Carton Brewing"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.29376979999999,
+          40.0086321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Tired Hands Brew Cafe"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.6984361,
+          39.2223241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Guinness Open Gate Brewery"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -7.2541102,
+          52.6543719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Smithwick's Experience"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.55103249999999,
+          35.591694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Wicked Weed Brewing Pub"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.55228199999999,
+          35.5948007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "One World Brewing"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.6781456,
+          45.5226867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Tugboat Brewing Company"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
